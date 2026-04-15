@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Lakshmana Rao Vallapuneni</h1>
-<h3 align="center">Data Analyst | SQL | Python | Power BI | Business Intelligence</h3>
+<h3 align="center">Data Analyst | Business Intelligence | Power BI • SQL • Python</h3>
 
 <p align="center">
-  <img src="profile.jpg" width="150" style="border-radius: 50%;" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/lakshmanarao-vallapuneni">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  <a href="https://www.linkedin.com/in/lakshmanarao-vallapuneni" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:vlakshmanarao216@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/Lucky35921" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
@@ -18,77 +17,90 @@
 
 ## 👨‍💻 About Me
 
-- 📊 Data Analyst with **2+ years experience**
-- 📈 Worked on **100K–200K+ datasets**
-- ⚡ Improved reporting efficiency by **40%**
-- 📉 Reduced errors by **25%**
-- 🎓 Master's in Data Science @ GVSU
-- 🔍 Interested in Data Analytics, BI, and Dashboarding
+- 🎓 Master’s in Data Science & Analytics at **Grand Valley State University** (Expected Apr 2026)
+- 📊 Data Analyst with **3+ years of experience** in KPI reporting, pricing analytics, dashboarding, and business intelligence
+- ⚙️ Focused on **reporting automation**, **decision-support analytics**, and building scalable KPI frameworks
+- 🧩 Strong at transforming raw data into actionable insights through **SQL, Python, Excel, and Power BI**
+- 🌱 Actively building real-world projects in **Analytics, BI, and Data Engineering**
+- 💬 Ask me about **SQL, Power BI, Python, KPI reporting, Excel modeling, and analytics automation**
+- 📫 Reach me at **vlakshmanarao216@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Skills & Tools
 
-### Languages
-![SQL](https://img.shields.io/badge/SQL-blue)
-![Python](https://img.shields.io/badge/Python-yellow)
-![R](https://img.shields.io/badge/R-blue)
-
-### Analytics & BI
-![Power BI](https://img.shields.io/badge/PowerBI-yellow)
-![Excel](https://img.shields.io/badge/Excel-green)
-![Tableau](https://img.shields.io/badge/Tableau-blue)
-
-### Data Engineering
-![ETL](https://img.shields.io/badge/ETL-grey)
-![MySQL](https://img.shields.io/badge/MySQL-blue)
-![MongoDB](https://img.shields.io/badge/MongoDB-green)
-
-### Cloud
-![AWS](https://img.shields.io/badge/AWS-orange)
-![Azure](https://img.shields.io/badge/Azure-blue)
+- **Programming Languages:** SQL (Joins, Window Functions, CTEs, Subqueries, Aggregations), Python (Pandas, NumPy), R  
+- **Data Analysis & Business Intelligence:** Excel (Pivot Tables, Power Query, Data Modeling, Advanced Formulas), Power BI, KPI Reporting, Dashboard Development, Data Visualization  
+- **Data Engineering:** ETL, Data Modeling, Data Warehousing, MySQL, MongoDB  
+- **Machine Learning & Statistics:** Scikit-learn, XGBoost, Regression, Classification, Hypothesis Testing, A/B Testing  
+- **Tools & Platforms:** AWS (S3, EC2, Redshift), Azure (Data Factory, Azure SQL), Git, Jupyter Notebook  
+- **Analytics & Reporting:** Data Cleaning, Data Validation, Trend Analysis, Root Cause Analysis, Predictive Analytics, Descriptive Analytics, Stakeholder Communication, Process Improvement  
 
 ---
 
-## 📜 Certifications
+## 🛠️ Languages & Platforms
 
-- Microsoft Certified: Power BI Data Analyst
-- Google Data Analytics Certificate
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,aws,azure" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 1) Retail Pricing Optimization Analysis (Excel, SQL, Power BI)
+- Analyzed **100K+ retail transactions** to identify pricing inefficiencies and demand patterns
+- Built KPI views to highlight under/overpriced SKUs and revenue opportunities
+- Uncovered opportunities for **8–12% margin improvement** through actionable pricing insights
+
+### 2) Customer Churn Analysis & Retention Strategy (Excel, SQL, Power BI)
+- Investigated **50K+ customer records** to identify churn drivers and behavioral patterns
+- Developed retention recommendations using segmentation and trend analysis
+- Designed strategies that could reduce churn by **15–20%**
+
+### 3) Supply Chain & Inventory Performance Analysis (Excel, SQL, Power BI)
+- Evaluated inventory performance across **20+ SKUs** to detect demand variability and stockout risk
+- Built dashboards for fulfillment and stockout tracking to support planning
+- Recommended strategies that reduced stockouts by **18%** and improved fulfillment efficiency
+
+---
+
+## 💼 Experience Highlights
+
+### Data Analyst | Slash Mark IT Solutions
+- Automated KPI reporting pipelines across **100K+ records**, reducing manual work by **40%**
+- Built interactive Power BI dashboards tracking **10+ KPIs** to improve visibility for stakeholders
+- Partnered with Sales, Pricing, Supply Chain, and Marketing teams to deliver actionable insights
+
+### Data Analyst | HCLTech
+- Improved data quality and reduced processing errors by **25%** using SQL and Python analysis
+- Supported ETL workflows and data migration across systems to improve reporting reliability
+- Developed reporting solutions improving visibility for finance and operations teams
+
+---
+
+## 🎓 Certifications
+
+- Microsoft Certified: **Power BI Data Analyst Associate**
+- Google Data Analytics Professional Certificate
 - SQL (Advanced) – HackerRank
+- NPTEL: Data Mining, Machine Learning, DSA using Python
 
 ---
 
-## 🚀 Featured Projects
 
-### 📊 Retail Pricing Optimization
-- Analyzed 100K+ records to improve margins by 8–12%
+## 🤝 Connect With Me
 
-### 📉 Customer Churn Analysis
-- Identified churn patterns → reduced churn by 15–20%
-
-### 📦 Supply Chain Analysis
-- Reduced stockouts by 18%
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucky35921&show_icons=true&theme=radical" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/lakshmanarao-vallapuneni" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:vlakshmanarao216@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" height="30" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/Lucky35921" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucky35921&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🏆 Achievements
-
-- ⭐ Improved reporting efficiency by 40%
-- 📊 Built dashboards tracking 10+ KPIs
-- ⚡ Automated workflows for large datasets
-
----
-
-⭐ Always building data-driven solutions
+⭐ Building impactful projects in **Data Analytics, Business Intelligence, SQL, Python, and Power BI**.
+<img width="468" height="657" alt="image" src="https://github.com/user-attachments/assets/6924df59-4bb6-4e99-8254-7e7503661c74" />
