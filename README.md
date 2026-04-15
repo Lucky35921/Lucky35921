@@ -93,13 +93,15 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/lakshmanarao-vallapuneni" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="34" height="34" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:vlakshmanarao216@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="34" height="34" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Lucky35921" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="34" height="34" />
   </a>
 </p>
 ⭐ Building impactful projects in **Data Analytics, Business Intelligence, SQL, Python, and Power BI**.
