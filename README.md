@@ -91,5 +91,15 @@
 
 ## 🤝 Connect With Me
 
-<p align="left" style="white-space:nowrap;"><a href="https://www.linkedin.com/in/lakshmanarao-vallapuneni" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="28" height="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:vlakshmanarao216@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="28" height="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Lucky35921" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="28" height="28" /></a></p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/lakshmanarao-vallapuneni" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:vlakshmanarao216@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" height="30" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/Lucky35921" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+</p>
 ⭐ Building impactful projects in **Data Analytics, Business Intelligence, SQL, Python, and Power BI**.
