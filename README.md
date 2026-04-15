@@ -27,7 +27,7 @@
 
 ---
 
-## 🧠 Advanced Skills & Tools
+## 🧠 Skills & Tools
 
 - **Programming Languages:** SQL (Joins, Window Functions, CTEs, Subqueries, Aggregations), Python (Pandas, NumPy), R  
 - **Data Analysis & Business Intelligence:** Excel (Pivot Tables, Power Query, Data Modeling, Advanced Formulas), Power BI, KPI Reporting, Dashboard Development, Data Visualization  
