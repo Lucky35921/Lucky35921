@@ -88,18 +88,18 @@
 
 ---
 
+
 ## 🤝 Connect With Me
 
-<p align="left" style="white-space:nowrap;">
-  <a href="https://www.linkedin.com/in/lakshmanarao-vallapuneni" target="_blank" style="display:inline-block; margin-right:14px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/lakshmanarao-vallapuneni" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
   </a>
-  <a href="mailto:vlakshmanarao216@gmail.com" target="_blank" style="display:inline-block; margin-right:14px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" height="30" width="40" />
+  <a href="mailto:vlakshmanarao216@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" />
   </a>
-  <a href="https://github.com/Lucky35921" target="_blank" style="display:inline-block;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" height="30" width="40" />
+  <a href="https://github.com/Lucky35921" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github" />
   </a>
 </p>
-
 ⭐ Building impactful projects in **Data Analytics, Business Intelligence, SQL, Python, and Power BI**.
