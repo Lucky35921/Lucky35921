@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lakshmana Rao Vallapuneni</h1>
-<h3 align="center">Aspiring Data Analyst | Power BI | SQL | Python | Business Intelligence</h3>
+<h3 align="center">Data Analyst | Business Intelligence | Power BI • SQL • Python</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lakshmanarao-vallapuneni" target="_blank">
@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://github.com/Lucky35921" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
@@ -17,42 +17,50 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Master’s in Data Science & Analytics at **Grand Valley State University**
-- 📊 Data Analyst with **2+ years of experience** in KPI reporting, pricing analytics, dashboards, and business intelligence
-- 🐍 Skilled in **Python, SQL, Excel, Power BI, Tableau, ETL, and data visualization**
-- 📈 Interested in **data analytics, business intelligence, reporting automation, and decision-support systems**
-- 🌱 Currently strengthening my portfolio with real-world **data analyst projects**
-- 💬 Ask me about **SQL, Python, Power BI, Excel, dashboards, KPI reporting, and analytics projects**
+- 🎓 Master’s in Data Science & Analytics at **Grand Valley State University** (Expected Apr 2026)
+- 📊 Data Analyst with **3+ years of experience** in KPI reporting, pricing analytics, dashboarding, and business intelligence
+- ⚙️ Focused on **reporting automation**, **decision-support analytics**, and building scalable KPI frameworks
+- 🧩 Strong at transforming raw data into actionable insights through **SQL, Python, Excel, and Power BI**
+- 🌱 Actively building real-world projects in **Analytics, BI, and Data Engineering**
+- 💬 Ask me about **SQL, Power BI, Python, KPI reporting, Excel modeling, and analytics automation**
 - 📫 Reach me at **vlakshmanarao216@gmail.com**
 
 ---
 
-## 🛠️ Languages and Tools
+## 🧠 Advanced Skills & Tools
+
+- **Programming Languages:** SQL (Joins, Window Functions, CTEs, Subqueries, Aggregations), Python (Pandas, NumPy), R  
+- **Data Analysis & Business Intelligence:** Excel (Pivot Tables, Power Query, Data Modeling, Advanced Formulas), Power BI, KPI Reporting, Dashboard Development, Data Visualization  
+- **Data Engineering:** ETL, Data Modeling, Data Warehousing, MySQL, MongoDB  
+- **Machine Learning & Statistics:** Scikit-learn, XGBoost, Regression, Classification, Hypothesis Testing, A/B Testing  
+- **Tools & Platforms:** AWS (S3, EC2, Redshift), Azure (Data Factory, Azure SQL), Git, Jupyter Notebook  
+- **Analytics & Reporting:** Data Cleaning, Data Validation, Trend Analysis, Root Cause Analysis, Predictive Analytics, Descriptive Analytics, Stakeholder Communication, Process Improvement  
+
+---
+
+## 🛠️ Languages & Platforms
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,mysql,git,github,aws,azure" />
 </p>
 
-- **Languages:** SQL, Python, R  
-- **Analytics & BI:** Power BI, Excel, Tableau, KPI Reporting, Dashboard Development  
-- **Data Work:** ETL, Data Cleaning, Data Validation, Data Modeling, Data Warehousing  
-- **Libraries & ML:** Pandas, NumPy, Scikit-learn, XGBoost  
-- **Cloud & Platforms:** AWS (S3, EC2, Redshift), Azure (Data Factory, Azure SQL), MongoDB, MySQL  
-
 ---
 
 ## 📌 Featured Projects
 
-### Retail Pricing Optimization Analysis
-- Analyzed **100K+ retail transactions** using SQL, Python, and Power BI
-- Identified pricing inefficiencies and uncovered opportunities for **8–12% margin improvement**
+### 1) Retail Pricing Optimization Analysis (Excel, SQL, Power BI)
+- Analyzed **100K+ retail transactions** to identify pricing inefficiencies and demand patterns
+- Built KPI views to highlight under/overpriced SKUs and revenue opportunities
+- Uncovered opportunities for **8–12% margin improvement** through actionable pricing insights
 
-### Customer Churn Analysis & Retention Strategy
+### 2) Customer Churn Analysis & Retention Strategy (Excel, SQL, Power BI)
 - Investigated **50K+ customer records** to identify churn drivers and behavioral patterns
-- Designed retention strategies that could reduce churn by **15–20%**
+- Developed retention recommendations using segmentation and trend analysis
+- Designed strategies that could reduce churn by **15–20%**
 
-### Supply Chain & Inventory Performance Analysis
-- Evaluated supply chain performance across **20+ SKUs**
+### 3) Supply Chain & Inventory Performance Analysis (Excel, SQL, Power BI)
+- Evaluated inventory performance across **20+ SKUs** to detect demand variability and stockout risk
+- Built dashboards for fulfillment and stockout tracking to support planning
 - Recommended strategies that reduced stockouts by **18%** and improved fulfillment efficiency
 
 ---
@@ -61,13 +69,13 @@
 
 ### Data Analyst | Slash Mark IT Solutions
 - Automated KPI reporting pipelines across **100K+ records**, reducing manual work by **40%**
-- Built interactive Power BI dashboards tracking **10+ KPIs**
-- Worked with sales, pricing, supply chain, and marketing teams to deliver actionable insights
+- Built interactive Power BI dashboards tracking **10+ KPIs** to improve visibility for stakeholders
+- Partnered with Sales, Pricing, Supply Chain, and Marketing teams to deliver actionable insights
 
 ### Data Analyst | HCLTech
-- Improved data quality and reduced processing errors by **25%**
-- Supported ETL workflows and migration across systems
-- Built reporting solutions that improved visibility for finance and operations teams
+- Improved data quality and reduced processing errors by **25%** using SQL and Python analysis
+- Supported ETL workflows and data migration across systems to improve reporting reliability
+- Developed reporting solutions improving visibility for finance and operations teams
 
 ---
 
@@ -96,4 +104,4 @@
 
 ---
 
-⭐ I’m actively building projects in **Data Analytics, Business Intelligence, SQL, Python, and Power BI**.
+⭐ Building impactful projects in **Data Analytics, Business Intelligence, SQL, Python, and Power BI**.
