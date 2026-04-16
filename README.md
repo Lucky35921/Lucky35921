@@ -103,4 +103,4 @@
   </a>
 </p>
 ⭐ Building impactful projects in **Data Analytics, Business Intelligence, SQL, Python, and Power BI**.
-<img width="468" height="657" alt="image" src="https://github.com/user-attachments/assets/6924df59-4bb6-4e99-8254-7e7503661c74" />
+
