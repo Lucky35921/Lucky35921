@@ -102,5 +102,4 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" height="30" width="40" />
   </a>
 </p>
-⭐ Building impactful projects in **Data Analytics, Business Intelligence, SQL, Python, and Power BI**.
 
