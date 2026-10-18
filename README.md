@@ -87,7 +87,6 @@ The projects currently include local prototypes and planned enterprise integrati
 
 **Technology:** Kafka · PySpark · Delta Lake · Databricks · PostgreSQL
 
-![Customer 360 Architecture](https://raw.githubusercontent.com/Lucky35921/realtime-customer-360-lakehouse/main/realtime-customer-360-lakehouse/docs/architecture.png)
 
 ### Engineering Problem
 
