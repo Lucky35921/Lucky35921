@@ -3,27 +3,25 @@
 
 # LAKSHMANA RAO VALLAPUNENI
 
-### DATA ENGINEER · CLOUD DATA PLATFORMS · DISTRIBUTED SYSTEMS
+### Data Engineer | Azure Data Engineer | Cloud Data Platforms
 
-**Engineering scalable data platforms, reliable pipelines, and analytics-ready systems.**
+**4+ Years of Experience | AWS & Azure | Enterprise Data Engineering**
 
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Explore-My_Projects-2563EB?style=for-the-badge&logo=github&logoColor=white)](#featured-projects)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshmanarao-vallapuneni/)
-[![Email](https://img.shields.io/badge/Email-Get_in_Touch-374151?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vlakshmanarao05@gmail.com)
+Building scalable data pipelines, distributed processing systems, and reliable cloud analytics platforms.
 
 <br/>
 
-`AWS` · `AZURE` · `DATABRICKS` · `PYSPARK` · `KAFKA` · `SNOWFLAKE` · `AIRFLOW`
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshmanarao-vallapuneni/)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lucky35921)
+[![Email](https://img.shields.io/badge/Email-Contact-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vlakshmanarao05@gmail.com)
+
+<br/>
+
+**Python** · **SQL** · **PySpark** · **AWS** · **Azure** · **Databricks** · **Kafka** · **Snowflake**
 
 ---
 
-[**About**](#about-me) &nbsp; • &nbsp;
-[**Tech Stack**](#technology-stack) &nbsp; • &nbsp;
-[**Projects**](#featured-projects) &nbsp; • &nbsp;
-[**Experience**](#professional-experience) &nbsp; • &nbsp;
-[**Contact**](#connect)
+[About](#about-me) • [Expertise](#engineering-expertise) • [Projects](#featured-projects) • [Experience](#professional-experience) • [Contact](#connect)
 
 </div>
 
@@ -33,42 +31,46 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Data Engineer** focused on designing and optimizing cloud-native data platforms, distributed processing pipelines, and enterprise analytics solutions.
+I'm a **Data Engineer with 4+ years of experience** designing, developing, and optimizing scalable batch and real-time data pipelines across AWS and Azure cloud platforms.
 
-My work spans **batch and streaming ETL/ELT, data lakehouse architecture, SQL and Spark performance optimization, data quality engineering, cloud warehousing, and workflow orchestration**.
+My professional experience includes building high-performance ETL/ELT solutions using **Python, SQL, PySpark, Apache Spark, Databricks, Azure Data Factory, AWS Glue, and Apache Airflow**, processing millions of records for enterprise analytics and reporting.
 
-I approach data engineering with an emphasis on:
+I specialize in:
 
-- **Scalability** — Efficient distributed processing and incremental data pipelines.
-- **Reliability** — Idempotency, validation, failure recovery, and auditability.
-- **Performance** — Optimized SQL execution, Spark transformations, and data modeling.
-- **Maintainability** — Reusable pipeline components, testing, and CI/CD.
-- **Business Impact** — Trusted datasets that support reporting and decision-making.
+- **Enterprise Data Engineering** — Scalable ETL/ELT pipelines and cloud data integration.
+- **Distributed Data Processing** — PySpark, Spark SQL, performance optimization, and large-scale transformations.
+- **Cloud Architecture** — AWS, Azure, Databricks, Snowflake, Redshift, and Synapse.
+- **Real-Time Streaming** — Apache Kafka, Spark Structured Streaming, REST APIs, and CDC.
+- **Data Reliability** — Data quality frameworks, reconciliation, validation, and pipeline monitoring.
+- **Data Warehousing** — Dimensional modeling, star schemas, and analytics-ready datasets.
+- **DevOps & Automation** — Apache Airflow, Azure DevOps, Docker, and CI/CD.
 
-> **Engineering philosophy:** A successful data platform is not just one that processes data — it is one that remains reliable, observable, and maintainable as data volumes and business requirements evolve.
+> My engineering focus is on building data platforms that are scalable, reliable, secure, and optimized for enterprise analytics.
 
 <br/>
 
-<a id="technology-stack"></a>
+---
 
-## ⚙️ Technology Stack
+<a id="engineering-expertise"></a>
+
+## ⚙️ Engineering Expertise
 
 <div align="center">
 
-### Languages & Distributed Processing
+### Programming & Distributed Processing
 
-<img src="https://skillicons.dev/icons?i=python,postgres,mysql" height="48" alt="Programming technologies"/>
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql" height="48"/>
 
 <br/><br/>
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Spark SQL](https://img.shields.io/badge/Spark_SQL-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 
 ### Cloud & Data Platforms
 
-<img src="https://skillicons.dev/icons?i=aws,azure" height="48" alt="Cloud platforms"/>
+<img src="https://skillicons.dev/icons?i=aws,azure" height="48"/>
 
 <br/><br/>
 
@@ -77,18 +79,57 @@ I approach data engineering with an emphasis on:
 ![Redshift](https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white)
 ![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?style=flat-square)
 
-### Streaming & Orchestration
+### Streaming, Orchestration & DevOps
 
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![ADF](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square)
 
-### Development & DevOps
+<br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" height="48" alt="Development tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" height="48"/>
 
 </div>
+
+<br/>
+
+| Engineering Domain | Technologies |
+|---|---|
+| Programming | Python, SQL, PySpark, Spark SQL, Shell Scripting |
+| Distributed Processing | Apache Spark, Databricks, Hadoop |
+| Streaming | Apache Kafka, Spark Structured Streaming, CDC |
+| AWS | S3, Glue, Redshift, EMR, Lambda, Athena |
+| Azure | Data Factory, Databricks, ADLS Gen2, Synapse, Azure DevOps |
+| Warehousing | Snowflake, Amazon Redshift, Azure Synapse |
+| Orchestration | Apache Airflow, Azure Data Factory |
+| Transformation | PySpark, Spark SQL, dbt, SSIS |
+| Databases | SQL Server, PostgreSQL, MySQL, T-SQL |
+| Data Modeling | Star Schema, Snowflake Schema, Medallion Architecture |
+| BI & Reporting | Qlik, Power BI, Tableau |
+| DevOps | Git, GitHub, Docker, CI/CD, Azure DevOps |
+
+<br/>
+
+---
+
+## 📈 Engineering Impact
+
+<div align="center">
+
+| Millions | 120s → 3s | 3 Cloud Warehouses |
+|:---:|:---:|:---:|
+| Records processed daily | SQL query runtime optimization | Snowflake, Redshift, Synapse |
+
+</div>
+
+**Enterprise engineering experience includes:**
+
+- Production ETL/ELT development and optimization.
+- Dependency-aware Airflow orchestration with automated retries and SLA monitoring.
+- Cloud migration from legacy ETL systems to Azure.
+- Distributed Spark optimization using partitioning, caching, and broadcast joins.
+- Automated source-to-target reconciliation and data quality validation.
+- Secure processing of regulated datasets with PII/PHI controls and auditability.
 
 <br/>
 
@@ -98,113 +139,111 @@ I approach data engineering with an emphasis on:
 
 ## 🚀 Featured Projects
 
-**Selected data engineering projects exploring enterprise architecture, real-time streaming, CDC, cloud data warehousing, and analytical modeling.**
+**Architecture-driven data engineering projects demonstrating streaming systems, CDC processing, lakehouse architecture, and modern analytics engineering.**
 
-### 01 / Real-Time Customer 360 Lakehouse
+### 01 — Real-Time Customer 360 Lakehouse
 
-**CUSTOMER DATA PLATFORM · CDC · LAKEHOUSE ARCHITECTURE**
+**Customer Data Platform | CDC | Lakehouse Architecture**
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Lucky35921/realtime-customer-360-lakehouse/main/realtime-customer-360-lakehouse/docs/architecture.png" alt="Customer 360 Lakehouse Architecture" width="95%"/>
+<img src="https://raw.githubusercontent.com/Lucky35921/realtime-customer-360-lakehouse/main/realtime-customer-360-lakehouse/docs/architecture.png" width="95%" alt="Customer 360 Architecture"/>
 
 </div>
 
 <br/>
 
-A Customer 360 lakehouse project designed to consolidate customer data from operational systems into a unified analytical view.
+Designed to unify customer records from operational systems using CDC ingestion, event processing, and a Medallion Lakehouse architecture.
 
-**Architecture**
+**Target Architecture**
 
-`PostgreSQL / APIs → Kafka → Spark Streaming → Delta Lake → Databricks → Analytics`
+`PostgreSQL / APIs → Kafka → Spark Structured Streaming → Delta Lake → Databricks → Analytics`
 
 **Engineering Highlights**
 
-- Implemented local CDC processing for customer insert, update, and delete events.
-- Built deterministic event ordering and deduplication logic.
-- Added late-arriving event protection and invalid-record quarantine.
-- Preserved raw customer events for replay and auditing.
-- Designed a future Bronze, Silver, and Gold Delta Lake architecture.
-- Planned distributed streaming, incremental MERGE, and orchestration.
+- Local CDC insert, update, and delete processing.
+- Deterministic deduplication and late-event handling.
+- Automated record validation and quarantine.
+- Raw event preservation and customer current-state materialization.
+- Planned Delta Lake MERGE, streaming checkpoints, and Bronze/Silver/Gold processing.
 
-**Tech:** `Python` `PostgreSQL` `Kafka` `PySpark` `Delta Lake` `Databricks`
+**Technology:** `Python` `Kafka` `PySpark` `Delta Lake` `Databricks`
 
-**Status:** Local CDC prototype implemented; cloud streaming integration planned.
+**Status:** Local prototype available; distributed streaming integrations planned.
 
-[![Source Code](https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Lucky35921/realtime-customer-360-lakehouse)
+[![Explore Project](https://img.shields.io/badge/Explore_Project-181717?style=for-the-badge&logo=github)](https://github.com/Lucky35921/realtime-customer-360-lakehouse)
 
 <br/>
 
 ---
 
-### 02 / Streaming Fraud Analytics Platform
+### 02 — Streaming Fraud Analytics Platform
 
-**FINANCIAL DATA ENGINEERING · STREAMING · EVENT PROCESSING**
+**Financial Data Engineering | Event-Driven Architecture | Fraud Detection**
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Lucky35921/Streaming-Fraud-Analytics-Platform/main/streaming-fraud-analytics-platform/docs/architecture.svg" alt="Streaming Fraud Analytics Architecture" width="95%"/>
+<img src="https://raw.githubusercontent.com/Lucky35921/Streaming-Fraud-Analytics-Platform/main/streaming-fraud-analytics-platform/docs/architecture.svg" width="95%" alt="Streaming Fraud Architecture"/>
 
 </div>
 
 <br/>
 
-An event-driven fraud analytics project designed to process financial transaction streams, identify suspicious activity, and produce fraud monitoring outputs.
+An event-driven fraud analytics platform designed to process transaction events, evaluate suspicious activity, and generate fraud monitoring outputs.
 
-**Architecture**
+**Target Architecture**
 
-`Transaction Producers → Kafka → Spark Streaming → Fraud Detection → S3 → Redshift`
+`Transaction Producers → Kafka → Spark Streaming → Fraud Detection → AWS S3 → Redshift`
 
 **Engineering Highlights**
 
-- Developed local transaction event processing and fraud detection rules.
-- Applied high-value transaction and transaction velocity checks.
-- Included duplicate-event handling and fraud alert generation.
-- Designed streaming windows and watermarking for future implementation.
-- Planned AWS S3 storage, Redshift analytics, and pipeline monitoring.
+- Synthetic financial transaction processing.
+- High-value transaction detection.
+- Transaction velocity analysis.
+- Duplicate-event handling and fraud alerts.
+- Planned event-time watermarking, checkpointing, and cloud analytics integration.
 
-**Tech:** `Python` `Kafka` `Spark Structured Streaming` `AWS S3` `Redshift`
+**Technology:** `Python` `Kafka` `Spark Streaming` `AWS S3` `Redshift`
 
-**Status:** Local fraud detection prototype implemented; distributed streaming and AWS deployment planned.
+**Status:** Local fraud detection prototype available; Kafka/Spark/AWS integration planned.
 
-[![Source Code](https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Lucky35921/Streaming-Fraud-Analytics-Platform)
+[![Explore Project](https://img.shields.io/badge/Explore_Project-181717?style=for-the-badge&logo=github)](https://github.com/Lucky35921/Streaming-Fraud-Analytics-Platform)
 
 <br/>
 
 ---
 
-### 03 / Enterprise Snowflake Analytics Platform
+### 03 — Enterprise Snowflake Analytics Platform
 
-**CLOUD DATA WAREHOUSING · ELT · ANALYTICS ENGINEERING**
+**Cloud Data Warehousing | ELT | Dimensional Modeling**
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Lucky35921/enterprise-snowflake-analytics-platform/main/enterprise-snowflake-analytics-platform-with-architecture/docs/architecture.png" alt="Enterprise Snowflake Analytics Architecture" width="95%"/>
+<img src="https://raw.githubusercontent.com/Lucky35921/enterprise-snowflake-analytics-platform/main/enterprise-snowflake-analytics-platform-with-architecture/docs/architecture.png" width="95%" alt="Snowflake Analytics Architecture"/>
 
 </div>
 
 <br/>
 
-An enterprise-style analytics engineering project designed to standardize retail data ingestion, SQL transformations, and dimensional data modeling.
+An enterprise-style analytics platform designed to standardize retail data transformations and build analytical data marts for business intelligence.
 
-**Architecture**
+**Target Architecture**
 
 `Retail Sources → Airflow → Snowflake → dbt → Analytics Marts → BI`
 
 **Engineering Highlights**
 
-- Developed local SQL-based retail data transformations.
-- Designed staging models and curated analytical datasets.
-- Modeled customer and product dimensions with sales fact tables.
-- Applied data validation and consistency checks.
-- Planned dbt incremental models, SCD Type 2 history, and automated testing.
-- Designed Airflow orchestration and Snowflake analytical integration.
+- SQL-based retail data ingestion and transformation.
+- Customer and product dimensional models.
+- Sales and revenue fact tables.
+- Data consistency and validation checks.
+- Planned dbt incremental models, SCD Type 2, testing, and Airflow orchestration.
 
-**Tech:** `Snowflake` `dbt` `SQL` `Airflow` `Dimensional Modeling`
+**Technology:** `Snowflake` `dbt` `SQL` `Airflow` `Dimensional Modeling`
 
-**Status:** Local SQL prototype implemented; Snowflake, dbt, and Airflow integrations planned.
+**Status:** Local SQL prototype available; Snowflake and dbt integration planned.
 
-[![Source Code](https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Lucky35921/enterprise-snowflake-analytics-platform)
+[![Explore Project](https://img.shields.io/badge/Explore_Project-181717?style=for-the-badge&logo=github)](https://github.com/Lucky35921/enterprise-snowflake-analytics-platform)
 
 <br/>
 
@@ -218,14 +257,14 @@ An enterprise-style analytics engineering project designed to standardize retail
 
 **July 2025 – Present | Grand Rapids, Michigan**
 
-- Developed and optimized ETL/ELT pipelines using Python, SQL, PySpark, and AWS.
-- Built enterprise reporting data workflows and automated validation frameworks.
-- Implemented Airflow orchestration with retries, dependency management, and alerts.
-- Tuned SQL queries through execution-plan analysis and indexing.
-- Improved a critical reporting query from **120 seconds to 3 seconds**.
-- Supported data quality, reconciliation, and secure data processing.
+- Engineered scalable ETL/ELT pipelines using SQL, Python, PySpark, and AWS services including Glue, S3, Redshift, and Lambda.
+- Supported enterprise reporting, analytics, and Qlik dashboards processing millions of records daily.
+- Orchestrated workflows using Apache Airflow with dependency-aware DAGs, automated retries, alerting, and SLA monitoring.
+- Optimized SQL reporting queries using execution plans, join refactoring, and indexing, reducing runtime from **120 seconds to 3 seconds**.
+- Developed automated data quality and validation frameworks for PySpark outputs, SQL logic, and source-to-target mappings.
+- Enforced secure access controls, data masking, and auditability for regulated datasets containing PII and PHI.
 
-`AWS` `Python` `PySpark` `SQL` `Airflow` `Data Quality`
+`AWS` `Glue` `S3` `Redshift` `PySpark` `Airflow` `SQL Optimization`
 
 ---
 
@@ -233,60 +272,63 @@ An enterprise-style analytics engineering project designed to standardize retail
 
 **April 2022 – July 2024 | India**
 
-- Developed Azure ETL pipelines using ADF, Databricks, ADLS Gen2, and Spark.
-- Supported migration from legacy data processing systems to cloud platforms.
-- Implemented Bronze, Silver, and Gold Medallion Architecture.
-- Optimized PySpark workloads using partitioning, caching, and broadcast joins.
-- Supported Azure DevOps CI/CD workflows and pipeline troubleshooting.
+- Migrated legacy on-premises ETL workloads to Azure using Data Factory, Databricks, ADLS Gen2, Azure SQL DW, and Spark.
+- Implemented Bronze, Silver, and Gold Medallion Architecture to improve data organization, lineage, and reusability.
+- Developed high-volume PySpark and Spark SQL transformations.
+- Optimized Spark workloads using partitioning, caching, and broadcast joins.
+- Diagnosed production pipeline failures and data discrepancies to support telecom reporting SLAs.
+- Established Azure DevOps CI/CD pipelines for development, UAT, and production deployments.
 
-`Azure` `ADF` `Databricks` `ADLS Gen2` `PySpark` `CI/CD`
+`Azure` `ADF` `Databricks` `ADLS Gen2` `Spark` `Azure DevOps`
 
 ---
 
 ### Associate Data Engineer — HCLTech
 
-**May 2021 – March 2022 | India**
+**February 2021 – March 2022 | India**
 
-- Developed enterprise data ingestion and transformation workflows.
-- Worked with REST APIs, Kafka, and CDC processing concepts.
-- Supported ETL pipelines using ADF, Databricks, and PySpark.
-- Designed analytical models using Snowflake and dimensional modeling.
-- Implemented data validation and reconciliation processes.
+- Developed batch and real-time ingestion frameworks using Apache Kafka, Spark Structured Streaming, REST APIs, and CDC.
+- Built ETL workflows using Azure Data Factory, Azure Databricks, and PySpark.
+- Implemented Snowflake warehouse models using Star and Snowflake schemas.
+- Automated source-to-target reconciliation and data validation to improve downstream reporting consistency.
 
-`ETL` `Kafka` `Snowflake` `SQL` `Data Integration`
+`Kafka` `Spark Streaming` `CDC` `ADF` `Databricks` `Snowflake`
 
 <br/>
 
 ---
 
-## 🏗️ Engineering Principles
+## 🏗️ Data Engineering Principles
 
-| Principle | Focus |
+| Principle | Engineering Approach |
 |---|---|
-| **Reliable Pipelines** | Retries, recovery, validation, and reconciliation |
-| **Scalable Processing** | Distributed computing, partitioning, incremental loads |
-| **Data Correctness** | Deduplication, idempotency, CDC, late-event handling |
-| **Observability** | Audit logs, metrics, monitoring, and alerting |
-| **Performance** | Spark tuning, SQL optimization, data modeling |
-| **Maintainability** | Reusable components, automated tests, CI/CD |
-| **Governance** | Lineage, access controls, historical traceability |
+| Reliability | Retries, failure handling, SLA monitoring |
+| Scalability | Distributed processing, partitioning, incremental workloads |
+| Data Quality | Automated validation, reconciliation, consistency checks |
+| Performance | SQL execution plans, indexing, Spark optimization |
+| Security | PII/PHI controls, masking, access management, auditing |
+| Maintainability | Modular pipelines, CI/CD, reusable transformations |
+| Data Architecture | Lakehouse, Medallion, dimensional modeling |
+
+<br/>
 
 ---
 
 ## 🎓 Education
 
-**Master of Science in Data Science & Analytics**
+**Master of Science in Data Science and Analytics**
 
-Grand Valley State University — Grand Rapids, Michigan
-
-April 2026
+Grand Valley State University  
+Grand Rapids, Michigan | April 2026
 
 ---
 
 ## 🏆 Certifications
 
-- Microsoft Certified: Azure Data Engineer Associate
 - AWS Certified Machine Learning
+- Microsoft Certified: Azure Data Engineer Associate
+
+<br/>
 
 ---
 
@@ -294,9 +336,9 @@ April 2026
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lucky35921&show_icons=true&hide_border=true" width="48%" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Lucky35921&show_icons=true&hide_border=true" width="48%" alt="GitHub Statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucky35921&layout=compact&hide_border=true" width="48%" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucky35921&layout=compact&hide_border=true" width="48%" alt="Top Languages"/>
 
 </div>
 
@@ -308,20 +350,18 @@ April 2026
 
 <div align="center">
 
-## Let's Connect
+## 🤝 Let's Connect
 
-**Open to conversations about Data Engineering, Distributed Systems, Cloud Data Platforms, and Analytics Engineering.**
+**Data Engineering · AWS · Azure · Distributed Systems · Streaming · Cloud Analytics**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshmanarao-vallapuneni/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vlakshmanarao05@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Lucky35921)
+[![Email](https://img.shields.io/badge/Email-Contact-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vlakshmanarao05@gmail.com)
 
 <br/>
 
 ---
 
-**DATA ENGINEERING · CLOUD ARCHITECTURE · STREAMING · ANALYTICS**
-
-*Engineering reliable data systems that turn raw information into trusted business insights.*
+**Building reliable data platforms that transform complex enterprise data into trusted business insights.**
 
 </div>
