@@ -325,9 +325,9 @@ Grand Rapids, Michigan | April 2026
 
 ## 🏆 Certifications
 
-- AWS Certified Machine Learning
-- Microsoft Certified: Azure Data Engineer Associate
-
+- AWS Certified Data Engineer Associate
+- Microsoft Certified: Data Analyst Associate
+- Databricks certified Data Engineer Professional
 <br/>
 
 ---
